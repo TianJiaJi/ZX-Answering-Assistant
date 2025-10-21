@@ -75,9 +75,9 @@
 
 进入 `https://ai.cqzuxia.com/#/evaluation/knowledge-detail/xxx` 页面，并刷新。
 
-![pVOR0OJ](vx_images/564104330109302.png "2")
+![pVOR0OJ](https://s21.ax1x.com/2025/10/22/pVOR0OJ.png "2")
 
-![pVORNWT](vx_images/121823229170686.png "3")
+![pVORNWT](https://s21.ax1x.com/2025/10/22/pVORNWT.png "3")
 
 ### **2️** 粘贴题库
 
@@ -89,11 +89,11 @@
 > ✅ 成功后会显示“成功解析 X 道题”，并列出所有题目与答案。
 > 
 
-![pVORtYV](vx_images/253082528322030.png "4")
+![pVORtYV](https://s21.ax1x.com/2025/10/22/pVORtYV.png "4")
 
-![pVORYF0](vx_images/396373126805632.png "5")
+![pVORYF0](https://s21.ax1x.com/2025/10/22/pVORYF0.png "5")
 
-![pVORwy4](vx_images/533522299150962.png "6")
+![pVORwy4](https://s21.ax1x.com/2025/10/22/pVORwy4.png "6")
 
 ### **3️** 开始答题
 
@@ -105,7 +105,7 @@
     - 匹配的题库题目
     - 正确答案（绿色）
 
-![pVORaSU](vx_images/50882210208012.png "7")
+![pVORaSU](https://s21.ax1x.com/2025/10/22/pVORaSU.png "7")
 
 ### **4️** 确认自动答题
 
