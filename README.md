@@ -59,7 +59,7 @@
     2. 复制 ZX-Answering-Assistant.user.js 代码
 2. 点击浏览器右上角 插件 图标 → 选择「创建新脚本」
     
-![pVORdlF](vx_images/150713846749115.png "1")
+![pVORdlF](https://s21.ax1x.com/2025/10/22/pVORdlF.png "1")
     
 3. 删除默认内容，粘贴本脚本代码
 4. 按 `Ctrl + S`（Windows）或 `Cmd + S`（Mac）保存
