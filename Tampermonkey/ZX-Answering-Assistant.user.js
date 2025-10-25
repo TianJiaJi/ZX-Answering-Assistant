@@ -890,6 +890,7 @@
             radio.type = 'radio';
             radio.name = 'traverseSpeed';
             radio.value = key;
+            radio.id = `speed-${key}`;
             if (setting.delay === traverseSpeed) {
                 radio.checked = true;
             }
@@ -903,6 +904,7 @@
             });
 
             const label = document.createElement('label');
+            label.htmlFor = `speed-${key}`;
             label.textContent = `${setting.label} (延迟${setting.delay}ms)`;
             label.style.cssText = `
                 font-size: 15px;
@@ -3417,6 +3419,7 @@
             radio.type = 'radio';
             radio.name = 'traverseSpeed';
             radio.value = key;
+            radio.id = `speed-${key}`;
             if (setting.delay === traverseSpeed) {
                 radio.checked = true;
             }
@@ -3430,6 +3433,7 @@
             });
 
             const label = document.createElement('label');
+            label.htmlFor = `speed-${key}`;
             label.textContent = `${setting.label} (延迟${setting.delay}ms)`;
             label.style.cssText = `
                 font-size: 15px;
